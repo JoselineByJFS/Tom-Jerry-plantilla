@@ -1,2 +1,2 @@
-# Tom-Jerry-plantilla
-plantilla para proyecto 20 detectar el toque de 2 sprites
+# TomyJerry
+Proyecto20 PRO TomyJerry, sin errores para compartir con el alumno
